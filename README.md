@@ -12,7 +12,9 @@ http://hqwiki.ziprealty.com/display/FD/Front-end+without+IntelliJ
 
 `zap stop` to force quit tomcat server
 
-`zap watch` to watch for file changes and grunt watch
+`zap watch` to watch for file changes
+
+`zap all` to clean, install, start, and watch
 
 ## TODO
 - Replace fswatch command dependency with node file watch 
