@@ -7,4 +7,5 @@ program
   .command('stop', 'force quit zapv3 tomcat server')
   .command('watch', 'start zapv3 file watch and grunt watch')
   .command('clean', 'clean boardwalk and zapv3')
+  .command('all', 'install, clean, start, and watch')
   .parse(process.argv);
