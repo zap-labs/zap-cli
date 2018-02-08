@@ -1,4 +1,5 @@
 const exeq = require('exeq');
+const env = require('./config');
 
 exeq(
   `echo Cleaning boardwalk and zapv3...`
