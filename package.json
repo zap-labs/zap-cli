@@ -1,0 +1,20 @@
+{
+  "name": "zap-cli",
+  "version": "1.0.0",
+  "description": "Command line tools for Zap development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Lee <ryan.lee@zaplabs.com>",
+  "license": "ISC",
+  "bin": {
+    "zap": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.14.1",
+    "exeq": "^3.0.0",
+    "maven": "^4.4.0",
+    "shell-env": "^1.0.0"
+  }
+}
