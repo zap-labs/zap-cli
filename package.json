@@ -1,6 +1,6 @@
 {
   "name": "@zaplabs/zap-cli",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Command line tools for Zap development.",
   "main": "index.js",
   "scripts": {
